@@ -1,0 +1,9 @@
+<h1>Hello {{user_email}}!</h1>
+
+<p>Here are your recommendations for <b>{{date "d. m. Y"}}</b>:</p>
+
+<ul>
+    {{#each recommendations}}
+    <li><a href="{{this.url}}">{{this.title}}</a> <small>{{this.artist}}</small></li>
+    {{/each}}
+</ul>
