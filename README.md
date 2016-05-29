@@ -1,8 +1,10 @@
 # mandrill-template-example
-An example for using the mandrill template
+
+An example for using the mandrill template with nodejs.
 
 ## Requirements
 
+- NodeJs
 - Mandrill account
 
 ## How to
@@ -28,3 +30,5 @@ module.exports = {
 ```
 node index.js
 ```
+
+You can find more about parameters for mandrill send template here: [https://mandrillapp.com/api/docs/messages.nodejs.html#method=send-template](https://mandrillapp.com/api/docs/messages.nodejs.html#method=send-template)
