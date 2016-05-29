@@ -1,0 +1,24 @@
+{
+  "name": "mandrill-template-example",
+  "version": "1.0.0",
+  "description": "An example for using the mandrill template.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "mandrill-api": "^1.0.45"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaerzen/mandrill-template-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihaerzen/mandrill-template-example/issues"
+  },
+  "homepage": "https://github.com/mihaerzen/mandrill-template-example#readme"
+}
