@@ -4,7 +4,7 @@
   "description": "An example for using the mandrill template.",
   "main": "index.js",
   "dependencies": {
-    "lodash": "^4.13.1",
+    "lodash": "^4.16.2",
     "mandrill-api": "^1.0.45"
   },
   "devDependencies": {},
