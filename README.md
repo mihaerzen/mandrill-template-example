@@ -15,7 +15,7 @@ An example for using the mandrill template with nodejs.
 4. `npm install`
 5. Create `config.local.js` in your folder (look example below)
 
-```
+```javascript
 'use strict';
 
 module.exports = {
